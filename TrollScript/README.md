@@ -1,9 +1,8 @@
 # Ducky
 RubberDucky Projects
 
-Trololol
+This bin file is encoaded for norwegian keyboards.
 
-Trololol.bin - RubberDucky script that starts ps as admin and downloads this resp for so to execute trololol.exe, the troll virus.
-Trololol.exe - The Troll virus, password for getting out of the virus is "trollface". Hit f12 to get to the pwd scrn.
+The webserver that hosts the ps1 script is my private server, change the server in the script to your own and encode the script to your hosts language before trying this out.
 
 sl3ipnr~$
