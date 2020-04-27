@@ -1,0 +1,12 @@
+REM
+REM Simple ducky script that opens iexplorer in fullscreen with zombo.com
+REM 
+REM Author: sl3ipnr
+REM NB! The bin file is encoded for norwegian keyboards!!
+REM
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING iexplore -k zombo.com
+ENTER
